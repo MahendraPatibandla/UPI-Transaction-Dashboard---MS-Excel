@@ -1,5 +1,8 @@
 # UPI Transaction Dashboard – MS Excel
 
+<img width="1352" height="867" alt="image" src="https://github.com/user-attachments/assets/52d5ca19-8f45-4695-aca6-fdf2c0c16701" />
+
+
 ## 📊 Project Overview
 
 The UPI Transaction Dashboard is an interactive data analytics project developed using Microsoft Excel to analyze and visualize UPI transaction data.
